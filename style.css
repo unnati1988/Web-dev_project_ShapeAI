@@ -116,7 +116,7 @@ a{
 }
 
 .menu li a:hover {
-  background-color: burlywood;
+  background-color:#23cdaf ;
   color: white;
   box-shadow: 5px 10px 30px rgba(32, 039, 119, 0.2);
 }
