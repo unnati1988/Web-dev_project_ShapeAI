@@ -2,7 +2,7 @@
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 <br>
-Check the code here:
+Check the working website here:
 https://unnati1988.github.io/Web-dev_project_ShapeAI/
 <br>
 <br>
